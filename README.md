@@ -16,23 +16,19 @@ I am a Computer Science student, currently halfway through my degree, I am expan
     <td>
 
 <!-- Your local or hosted GIF -->
-<img src="assets/narayanan.gif" width="200" />
+<img src="assets/skull.gif" width="200" />
 
 </td>
   </tr>
 </table>
 🔗 Connect With Me:
 <p>
-<a href="mailto:c.narayanan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/narayanan-c"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:c.narayanan.dev@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/narayanan-c"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/></a>
 </p>
   
 
 ---
-
-<!-- Stats / Social Section -->
-
-
 
 
 ### 🚀 Web Development
@@ -65,4 +61,3 @@ I am a Computer Science student, currently halfway through my degree, I am expan
 [![](https://visitcount.itsvg.in/api?id=Narayanan-C&icon=1&color=12)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
