@@ -7,7 +7,7 @@
 
 <h3>🧙‍♂️ About me</h3>
 
-I am a Computer Science student, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative, and funny.
+I am a Software Engineer, currently halfway through my degree, expanding my knowledge in both back-end and front-end development. Started learning development in 2024, and goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative, and funny.
 
 - 💻 Software Engineer | Next.js & React  
 - 🤝 I’m open to collaboration and learning with others  
