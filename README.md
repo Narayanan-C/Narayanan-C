@@ -15,8 +15,7 @@ I am a Software Engineer, currently halfway through my degree, expanding my know
 
 🔗 Connect With Me:
 <p>
-<a href="mailto:c.narayanan.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="50" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/narayanan-c"> <img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/narayanan-c"  target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png" width="50" alt="LinkedIn"/></a>
 </p>
   
 </td>
