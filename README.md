@@ -21,7 +21,7 @@ I am a Software Engineer, currently halfway through my degree, expanding my know
   
 </td>
 <td width="35%" align="center" valign="center">
-  <img src="assets/skull.gif" width="200" alt="skull gif" />
+  <img src="assets/coding.gif" width="200" alt="skull gif" />
 </td>
   </tr>
 
